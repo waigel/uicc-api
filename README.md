@@ -7,7 +7,7 @@ Collection of the UICC API (ETSI TS 102 241) for easy access by submodules or do
 You can bind this repo as a submodule to your project:
 
 ```bash
-git submodule add https://github.com/waigel/uicc-applet-playground uicc-api
+git submodule add https://github.com/waigel/uicc-api uicc-api
 ```
 
 # Fetch new versions
