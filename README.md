@@ -12,7 +12,7 @@ git submodule add https://github.com/waigel/uicc-api uicc-api
 
 # Fetch new versions
 
-You can autmatically fetch all uicc-api versions from the ETSI website:
+You can automatically fetch all uicc-api versions from the ETSI website:
 
 ```bash
 ./download.sh
